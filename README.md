@@ -5,4 +5,5 @@ A Naive Bayes is a simple technique for constructing classifiers: models that as
 In this project the weather dataset was used for Training and Testing, but the code can be easily used for any dataset.
 
 ### Developer:
-Syed Muhammad Raza Rizvi - smrazarizvi96@gmail.com
+
+[Syed Muhammad Raza Rizvi](https://github.com/SMRazaRizvi96) - smrazarizvi96@gmail.com
